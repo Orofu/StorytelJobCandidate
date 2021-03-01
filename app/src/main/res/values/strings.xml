@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Posts</string>
+
+    <!-- Comment item -->
+    <string name="comment_item_mail">Mail:</string>
+
+    <!-- Network -->
+    <string name="network_error_retry">Retry</string>
+    <string name="network_error_cancel">Cancel</string>
+    <string name="network_error_generic_title">Oops, something went wrong</string>
+    <string name="network_error_generic_message">There was an issue when collecting the data. Please check your connection and try again</string>
+
+    <!-- Placeholder text -->
+    <string name="placeholder_title">Story about Storytel</string>
+    <string name="placeholder_body">This is a story about Storytel, and it is a good one!</string>
+    <string name="placeholder_email">storytel.rulez@email.com</string>
+</resources>
